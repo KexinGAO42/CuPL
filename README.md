@@ -1,3 +1,8 @@
+This is a forked repo for replicate CuPL method on the CN_CLIP model (The original method was performed on English CLIP model).
+This is a part of the course project of CSE599G1 at University of Washington.
+
+# --- Below are the original content ---
+
 ## Generating customized prompts for zero-shot image classification
 
 This repository contains code to:
